@@ -7,6 +7,7 @@ I am doing literraly anything what gets in my mind. Like:
 - Smaller games
 - Calculator programs
 - GUI apps
+- Larger games
 
 ## 📄 Languages
 - C++
