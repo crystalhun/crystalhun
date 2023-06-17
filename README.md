@@ -5,6 +5,6 @@ I'm CrystalHUN, C++ a coder from Central EU, Hungary.
 
 - To build an enjoyable game entirely from scratch with C++ SDL2
 
-## 📄 Languages
+## ⚙ Tools
 - C++
-- C
+- Visual Studio 2022
